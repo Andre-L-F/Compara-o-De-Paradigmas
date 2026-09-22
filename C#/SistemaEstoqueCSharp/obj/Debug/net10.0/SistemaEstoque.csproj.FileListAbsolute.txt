@@ -1,0 +1,14 @@
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\bin\Debug\net10.0\SistemaEstoque.exe
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\bin\Debug\net10.0\SistemaEstoque.deps.json
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\bin\Debug\net10.0\SistemaEstoque.runtimeconfig.json
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\bin\Debug\net10.0\SistemaEstoque.dll
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\bin\Debug\net10.0\SistemaEstoque.pdb
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.AssemblyInfoInputs.cache
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.AssemblyInfo.cs
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.dll
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\refint\SistemaEstoque.dll
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.pdb
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\SistemaEstoque.genruntimeconfig.cache
+C:\Users\arthu\Downloads\SistemaEstoqueCSharp\obj\Debug\net10.0\ref\SistemaEstoque.dll
